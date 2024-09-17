@@ -1,0 +1,37 @@
+A Távközlési és Médiainformatikai Tanszék története 1949-ig nyúlik vissza. 1949-ben a Villamosmérnöki Karral egyidejűleg hozták létre a Vezetékes Híradástechnika Tanszéket, mely kezdetben átviteltechnikát és távbeszélő technikát oktatott. A tanszék vezetői Kozma László az MTA rendes tagja (1949-1953, 1959-1971) és Vágó Artúr professzor (1953-1959) voltak.
+
+A Vezetékes Híradástechnikai Tanszék úttörő munkát végzett a távközlés, a kapcsolóközpontok és ezek elméleti alapjai (logikai algebra, stb ) területén.
+
+A távbeszélőközpontok és a logikai kapcsolástan tárgyak kidolgozásában és oktatásában, valamint ezen témák kutató és fejlesztő munkájában kiemelkedő eredményeket értek el: Kozma László, Frajka Béla, Szittya Ottó, Gál József, Flesch István, Ruppenthal Péter, Csopaki Gyula, Kóczy László.
+
+A hálózatelmélet - és ezen belül különösen a toleranciaelmélet - témakörök nemzetközileg elismert iskolájának munkatársai voltak Géher Károly vezetésével: Gordos Géza, Sallai Gyula, Halász Edit, Solymosi János, Trón Tibor, Gefferth László, Gajdos Sándor.
+
+Az átviteltechnikai rendszerek témakör tárgyainak kidolgozásában és a kutató fejlesztő munkában előbb Izsák Miklós, később Gordos Géza vezetésével Hennyei Zoltán, Willoner Gedeon, Tarnay Kálmánné, Földvári Rudolf, Henk Tamás, Tatai Péter vettek részt.
+
+A hálózatelmélet és az átviteltechnikai rendszerek témakörei számos területen integrálódtak, így többen mindkét iskola jeles képvislőivé váltak (Gordos Géza, Sallai Gyula).
+
+A műszaki informatika gyökerei Kozma László professzorhoz vezetnek vissza, aki munkatársaival, Frajka Bélával és Budai Lajossal megtervezte és megvalósította Magyarországon az első digitális számítógépet, amely jelfogókból felépítve készült el 1958-ban.
+
+A szintén nemzetközi elismertségű beszédkutató és jelfeldolgozási laboratóriumot Gordos Géza 1968-ban alapította meg a tanszék keretén belül.
+
+A Vezetékes Híradástechnika Tanszék a Vezetéknélküli Híradástechnika Tanszékkel együtt oktatta a híradástechnika és az információs technológia széles területét.
+
+A két híradástechnika tanszék Híradástechnikai Elektronika Intézetté (HEI) egyesült, melynek vezetői voltak: Barta István (1972-1975) és Csibi Sándor (1975-1991) az MTA rendes tagjai. A HEI hat osztályra bontva osztályvezetők irányításával működött 1991-ig. Az intézet által művelt szakterületek: átvitel- és rendszertechnika, akusztika, elektronikus áramkörök, kapcsolóközpontok, rádió- és televízió-technika , számítástechnika.
+
+1991-ben jött létre a HEI kettéválásával a Távközlési és Telematikai Tanszék (TTT) Gordos Géza professzor (1991-2002) vezetésével, valamint a Híradástechnikai Tanszék (HIT) Ferenczy Pál professzor vezetésével. A TTT profiljába a következő témák tartoztak: távközlő rendszerek, infokommunikációs hálózatok, nagysebességű hálózatok, kapcsolóközpontok, jel- és beszédfeldolgozás.
+
+1992-ben Gordos Géza kezdeményezésére és koordinálásával, Henk Tamás vezetésével megalakult a Nagysebességű Hálózatok Laboratóriuma (HSN Lab), amelynek alapító ipari partnerei az ERICSSON R&D és a Telia Research voltak. A kiemelkedő PhD képzést és nemzetközileg is elismert kutatómunkát felmutató HSN Lab munkájába a továbbiakban több tanszék is bekapcsolódott.
+
+1996-ban az MTA Békésy György Akusztikai Kutatólaboratórium csatlakozott a TTT-hez.
+
+1998 óta a tanszék gesztorálja az Egyetemközi Távközlési és Informatikai Központot, amelyben alap- és alkalmazott kutatást folytat a BME és az ELTE több oktatócsoportja ipari partnerekkel (Ericsson Hungary, Antenna Hungária, HP Invent, MATAV Rt, KFKI Számítástechnikai Rt, MTA SzTAKI, SUN Microsystems, Westel) együttműködve, és 2001-től az ország öt Kooperációs Kutatási Központjának egyikeként az Oktatási Minisztérium támogatását is elnyerve.
+
+A tanszék tevékenységi köre az utóbbi években fokozatosan kiszélesedett a távinformatikai protokollok, az adatbázisok, a számítógépes intelligencia, a tartalomkezelés és az ágazati szabályozás és menedzsment témaköreivel Csopaki Gyula, Gajdos Sándor, Kóczy László, Magyar Gábor, illetve Sallai Gyula vezetésével.
+
+A tanszék jelentős szerepet vállalt a doktorandusz hallgatók képzésében. Az elmúlt tíz évben rendszeresen negyvenöt fiatal kutató végzi tudományos munkáját körünkben. Tanszékünk jeles fiatal oktatói is közülük kerültek ki.
+
+Kiemelkedő tudományos eredményeikért Kossuth Díjban részesült Kozma László és Willoner Gedeon, Széchenyi Díjban részesült Géher Károly, Gordos Géza és Henk Tamás.
+
+Távközlési és Telematikai Tanszék vezetését 2002 nyarán Sallai Gyula professzor vette át. Őt Henk Tamás tudományos tanácsadó követte a tanszékvezetői poszton 2010 nyarától 2013 júniusáig. 2013. július 1-től a tanszék vezetője Magyar Gábor. 2003 július 1-től a tanszék neve Távközlési és Médiainformatika Tanszék (TMIT). 2021. július 1-től Dr. Varga Pál vette át a tanszék irányítását tanszékvezetőként.
+
+A tanszék jelenlegi felépítése a tanszéki szervezet leírásánál található.
