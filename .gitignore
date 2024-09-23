@@ -3,3 +3,4 @@
 **.vscode
 **.git
 **.venv
+tool_agent_memory.db
